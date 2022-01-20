@@ -1,0 +1,1 @@
+export const mainBlue = '#0abde3';
